@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "1",
+        "img": "class1.jpg",
+        "name": "Class 1",
+        "instructorName": "John Doe",
+        "availableSeats": 10,
+        "price": 50,
+        "totalStudents": 0
+    },
+    {
+        "_id": "2",
+        "img": "class2.jpg",
+        "name": "Class 2",
+        "instructorName": "Jane Smith",
+        "availableSeats": 5,
+        "price": 75,
+        "totalStudents": 0
+    },
+    {
+        "_id": "3",
+        "img": "class3.jpg",
+        "name": "Class 3",
+        "instructorName": "Alex Johnson",
+        "availableSeats": 15,
+        "price": 60,
+        "totalStudents": 0
+    }
+]
